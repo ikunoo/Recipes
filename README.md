@@ -7,7 +7,5 @@ Skills used in project:
 -lists
 
 
-
-
 Summary:
 Practice file management--> parential directories
