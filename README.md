@@ -4,10 +4,10 @@ Skills used in project:
 -images, gifs
 -links
 -headers, paragraphs
--lists
-
-
-
+-LISTS
 
 Summary:
 Practice file management--> parential directories
+Commit messages more explainatory -> shorter
+
+Status: finished
