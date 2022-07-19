@@ -10,4 +10,4 @@ Summary:
 Practice file management--> parential directories
 Commit messages more explainatory -> shorter
 
-Status: finished
+Status: In progress
