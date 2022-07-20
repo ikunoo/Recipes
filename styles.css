@@ -12,9 +12,13 @@
 }
 .imgbox{
     text-align: center;
+    padding: 20px;
+
 }
 .imgbox img{
     width: 1000px;
+    height: auto;
+    border: 5px solid black;
     border-radius: 50px;
 }
 .main-list{
